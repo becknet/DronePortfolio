@@ -17,8 +17,8 @@
   <meta property="og:title" content="Daniel Brodbeck – Vertikale Perspektiven">
   <meta property="og:description" content="Drohnenfotografie aus ungewohnter, senkrechter Perspektive.">
   <meta property="og:url" content="{{SITE_URL}}">
-  <meta property="og:image" content="{{SITE_URL}}assets/gallery/infrastruktur/wald-wasser-uebergang-1600.jpg">
-  <meta property="og:image:alt" content="Brücke über einem Bergbach im grünen Wald, senkrecht von oben fotografiert.">
+  <meta property="og:image" content="{{SITE_URL}}{{HERO_BASE}}-1600.jpg">
+  <meta property="og:image:alt" content="{{HERO_ALT}}">
   <meta name="twitter:card" content="summary_large_image">
 
   <script type="application/ld+json">
@@ -73,8 +73,8 @@
   <main id="main-content">
     <section class="hero" id="top" aria-labelledby="hero-title">
       <picture class="hero-media" aria-hidden="true">
-        <source type="image/webp" srcset="assets/gallery/infrastruktur/wald-wasser-uebergang-900.webp 900w, assets/gallery/infrastruktur/wald-wasser-uebergang-1600.webp 1600w, assets/gallery/infrastruktur/wald-wasser-uebergang-2400.webp 2400w" sizes="100vw">
-        <img src="assets/gallery/infrastruktur/wald-wasser-uebergang-1600.jpg" srcset="assets/gallery/infrastruktur/wald-wasser-uebergang-900.jpg 900w, assets/gallery/infrastruktur/wald-wasser-uebergang-1600.jpg 1600w, assets/gallery/infrastruktur/wald-wasser-uebergang-2400.jpg 2400w" sizes="100vw" alt="" width="1600" height="900" fetchpriority="high" decoding="async">
+        <source type="image/webp" srcset="{{HERO_BASE}}-900.webp 900w, {{HERO_BASE}}-1600.webp 1600w, {{HERO_BASE}}-2400.webp 2400w" sizes="100vw">
+        <img src="{{HERO_BASE}}-1600.jpg" srcset="{{HERO_BASE}}-900.jpg 900w, {{HERO_BASE}}-1600.jpg 1600w, {{HERO_BASE}}-2400.jpg 2400w" sizes="100vw" alt="" width="1600" height="900" fetchpriority="high" decoding="async">
       </picture>
       <div class="hero-shade"></div>
       <div class="hero-content">
@@ -99,7 +99,7 @@
         <!-- CATEGORY_FILTERS -->
       </div>
 
-      <p class="gallery-status" aria-live="polite"><span data-visible-count>10</span> Bilder</p>
+      <p class="gallery-status" aria-live="polite"><span data-visible-count>{{IMAGE_COUNT}}</span> Bilder</p>
       <div class="gallery-grid">
         <!-- GALLERY_ITEMS -->
       </div>
@@ -155,10 +155,10 @@
       <figure>
         <picture>
           <source data-lightbox-webp type="image/webp">
-          <img data-lightbox-image src="assets/gallery/infrastruktur/wald-wasser-uebergang-1600.jpg" alt="" width="1600" height="900">
+          <img data-lightbox-image src="{{HERO_BASE}}-1600.jpg" alt="" width="1600" height="900">
         </picture>
         <figcaption>
-          <div><span data-lightbox-category>Infrastruktur</span><span data-lightbox-count>1 / 10</span></div>
+          <div><span data-lightbox-category>{{HERO_CATEGORY}}</span><span data-lightbox-count>1 / {{IMAGE_COUNT}}</span></div>
           <h2 id="lightbox-title" data-lightbox-title>Wald, Wasser, Übergang</h2>
           <p id="lightbox-caption" data-lightbox-caption></p>
           <small>© Daniel Brodbeck</small>

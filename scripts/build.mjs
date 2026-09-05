@@ -16,10 +16,15 @@ await cp(path.join(root, "src", "assets"), path.join(dist, "assets"), { recursiv
 await cp(path.join(root, "assets", "gallery"), path.join(dist, "assets", "gallery"), { recursive: true });
 
 const template = await readFile(path.join(root, "src", "index.template.html"), "utf8");
+const hero = gallery.find((image) => image.slug === site.heroSlug);
 const index = template
   .replace("<!-- CATEGORY_FILTERS -->", renderFilters(site.categoryOrder))
   .replace("<!-- GALLERY_ITEMS -->", renderGallery(gallery))
   .replace("<!-- IMAGE_JSON_LD -->", JSON.stringify(renderImageSchema(site.siteUrl, gallery)))
+  .replaceAll("{{IMAGE_COUNT}}", String(gallery.length))
+  .replaceAll("{{HERO_BASE}}", assetBase(hero))
+  .replaceAll("{{HERO_ALT}}", esc(hero.alt))
+  .replaceAll("{{HERO_CATEGORY}}", esc(hero.category))
   .replaceAll("{{SITE_URL}}", site.siteUrl);
 
 await writeFile(path.join(dist, "index.html"), index);

@@ -1,22 +1,22 @@
 [
   {
-    "source": "Infrastruktur/dji_fly_20250517_154348_243_1747492560221_photo_optimized.jpeg",
-    "slug": "bruecke-ueber-dem-bergbach",
-    "title": "Brücke über dem Bergbach",
-    "alt": "Schmale Brücke über einem Bergbach in dichtem grünem Wald, senkrecht von oben fotografiert.",
-    "caption": "Eine gerade Verbindung über bewegtem Wasser und dichtem Wald.",
+    "source": "Infrastruktur/dji_fly_20250304_145034_116_1741113973905_photo_optimized.jpg",
+    "slug": "drei-reihen-technik",
+    "title": "Drei Reihen Technik",
+    "alt": "Drei parallele Reihen gelber und weisser Schneemaschinen auf einer weiten Schneefläche, senkrecht von oben fotografiert.",
+    "caption": "Technische Geräte ordnen die weisse Fläche zu einem strengen Raster.",
     "category": "Infrastruktur"
   },
   {
-    "source": "Infrastruktur/dji_fly_20250517_154752_253_1747492522150_photo_optimized.jpeg",
-    "slug": "wald-wasser-uebergang",
-    "title": "Wald, Wasser, Übergang",
-    "alt": "Eine helle Brücke teilt aus der Vogelperspektive einen grünen Wald und einen türkisfarbenen Bergbach.",
-    "caption": "Infrastruktur als präzise Linie in einer organischen Landschaft.",
+    "source": "Infrastruktur/dji_fly_20250517_123732_237_1747492489903_photo_optimized.jpg",
+    "slug": "kurven-im-gruen",
+    "title": "Kurven im Grün",
+    "alt": "Helle Serpentinenstrasse zwischen grünen Wiesen und Bäumen aus senkrechter Drohnenperspektive.",
+    "caption": "Die Strasse zeichnet eine weiche Bewegung durch das satte Grün.",
     "category": "Infrastruktur"
   },
   {
-    "source": "Infrastruktur/dji_fly_20250703_084610_307_1751556809819_photo_optimized.jpeg",
+    "source": "Infrastruktur/dji_fly_20250703_084610_307_1751556809819_photo_optimized.jpg",
     "slug": "linie-ueber-dem-schotterfeld",
     "title": "Linie über dem Schotterfeld",
     "alt": "Gerade Strasse mit einem einzelnen Auto über einem breiten Schotterfeld, senkrecht von oben aufgenommen.",
@@ -24,15 +24,215 @@
     "category": "Infrastruktur"
   },
   {
-    "source": "Natur/dji_fly_20250517_123732_237_1747492489903_photo_optimized.jpeg",
-    "slug": "kurven-im-gruen",
-    "title": "Kurven im Grün",
-    "alt": "Helle Serpentinenstrasse zwischen grünen Wiesen und Bäumen aus senkrechter Drohnenperspektive.",
-    "caption": "Die Strasse zeichnet eine weiche Bewegung durch das satte Grün.",
-    "category": "Natur"
+    "source": "Infrastruktur/dji_fly_20250703_094224_323_1751556688869_photo_optimized.jpg",
+    "slug": "steg-ueber-der-schlucht",
+    "title": "Steg über der Schlucht",
+    "alt": "Schmale gerade Brücke über einer felsigen Schlucht mit dunklen Wasserbecken, direkt von oben fotografiert.",
+    "caption": "Ein schmaler Steg verbindet zwei Seiten der zerklüfteten Landschaft.",
+    "category": "Infrastruktur"
   },
   {
-    "source": "Natur/dji_fly_20250630_125844_274_1751314512369_photo_optimized.jpeg",
+    "source": "Infrastruktur/dji_fly_20250704_232528_374_1751698486926_photo_optimized.jpg",
+    "slug": "mole-im-blau",
+    "title": "Mole im Blau",
+    "alt": "Gebogene steinerne Hafenmole in tiefblauem und türkisfarbenem Meer, senkrecht von oben gesehen.",
+    "caption": "Die helle Mole schiebt sich wie ein ruhiger Arm ins tiefe Blau.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250704_233350_378_1751698512827_photo_optimized.jpg",
+    "slug": "hafenwinkel",
+    "title": "Hafenwinkel",
+    "alt": "Winkelförmige Hafenanlage mit Strassen, Parkplätzen, Booten und türkisfarbenem Wasser aus der Vogelperspektive.",
+    "caption": "Land, Verkehr und Wasser treffen in einem präzisen Winkel aufeinander.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250704_233624_382_1751698568704_photo_optimized.jpg",
+    "slug": "boote-im-raster",
+    "title": "Boote im Raster",
+    "alt": "Zahlreiche weisse Boote liegen in parallelen Reihen in einem Hafen mit grünblauem Wasser.",
+    "caption": "Stege und Boote verwandeln das Hafenbecken in ein dichtes Raster.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250704_233854_388_1751698607364_photo_optimized.jpg",
+    "slug": "hafenlinie",
+    "title": "Hafenlinie",
+    "alt": "Gerade Hafenmole zwischen geordneten weissen Booten und einer freien türkisfarbenen Wasserfläche.",
+    "caption": "Die Mole trennt die Ordnung des Hafens von der offenen Wasserfläche.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250710_002218_436_1752131040362_photo_optimized.jpg",
+    "slug": "gruenes-rechteck",
+    "title": "Grünes Rechteck",
+    "alt": "Rechteckiger Sportplatz als grüne Fläche inmitten eines dicht bebauten Quartiers, senkrecht von oben fotografiert.",
+    "caption": "Das Spielfeld setzt ein klares Rechteck in die gewachsene Struktur des Ortes.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250801_135728_627_1754133842278_photo_optimized.jpg",
+    "slug": "geteiltes-wasser",
+    "title": "Geteiltes Wasser",
+    "alt": "Langer schmaler Steinwall teilt eine grünblaue Wasserfläche senkrecht in zwei Bereiche.",
+    "caption": "Eine einzige gebaute Linie teilt die ruhige Wasserfläche.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250807_085750_655_1754552542790_photo_optimized.jpg",
+    "slug": "schiff-im-schatten",
+    "title": "Schiff im Schatten",
+    "alt": "Grosses Schiff auf grünem Wasser neben einem Ufer, überlagert von den Schatten einer Brückenkonstruktion.",
+    "caption": "Schiff, Ufer und Brückenschatten bilden drei parallele Ebenen.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250807_092222_682_1754552675916_photo_optimized.jpg",
+    "slug": "gleise-am-rand",
+    "title": "Gleise am Rand",
+    "alt": "Viele parallele Bahngleise grenzen an ein kleinteiliges Gewerbeareal, direkt von oben aufgenommen.",
+    "caption": "Die strenge Ordnung der Gleise trifft auf die improvisierte Struktur am Rand.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250807_092344_684_1754552684680_photo_optimized.jpg",
+    "slug": "gleise-und-wagen",
+    "title": "Gleise und Wagen",
+    "alt": "Dichtes Feld paralleler Bahngleise mit abgestellten Güterwagen in unterschiedlichen Farben.",
+    "caption": "Schienen und Wagen verdichten sich zu einem industriellen Linienbild.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250817_161452_756_1755443184169_photo_optimized.jpg",
+    "slug": "kraft-des-wassers",
+    "title": "Kraft des Wassers",
+    "alt": "Langes Flusskraftwerk mit Fahrbahn und Solarpanels neben schäumendem türkisfarbenem Wasser.",
+    "caption": "Das Bauwerk bündelt Verkehr, Energie und die sichtbare Kraft des Flusses.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250817_161722_759_1755443197499_photo_optimized.jpg",
+    "slug": "bauwerk-im-strom",
+    "title": "Bauwerk im Strom",
+    "alt": "Langes helles Bauwerk quert einen grünen Fluss und wirft einen dunklen Schatten auf das Wasser.",
+    "caption": "Eine technische Schwelle legt sich als heller Balken über den Strom.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250822_180344_770_1755893076316_photo_optimized.jpg",
+    "slug": "strassenboegen",
+    "title": "Strassenbögen",
+    "alt": "Mehrere geschwungene Hochstrassen mit fahrenden Autos über einem komplexen Verkehrsknoten.",
+    "caption": "Fahrbahnen überlagern sich zu einer Choreografie aus Bögen und Bewegung.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250822_180700_776_1755893167299_photo_optimized.jpg",
+    "slug": "ebenen-der-bewegung",
+    "title": "Ebenen der Bewegung",
+    "alt": "Strassen, Bahntrassen und Brücken kreuzen sich über einem schmalen Fluss und begrünten Ufern.",
+    "caption": "Verkehrswege verschiedener Zeiten und Geschwindigkeiten liegen übereinander.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250822_181024_786_1755893298561_photo_optimized.jpg",
+    "slug": "verkehrsknoten",
+    "title": "Verkehrsknoten",
+    "alt": "Mehrspurige Strassen und Rampen mit Autos und einem Lastwagen kreuzen sich in engen Kurven.",
+    "caption": "Markierungen, Fahrzeuge und Fahrbahnen formen einen dicht geknüpften Knoten.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250822_181510_804_1755893560242_photo_optimized.jpg",
+    "slug": "bruecke-im-bau",
+    "title": "Brücke im Bau",
+    "alt": "Grosse Brückenbaustelle zwischen mehreren Bahntrassen und einem schmalen Flusslauf.",
+    "caption": "Zwischen bestehenden Gleisen entsteht eine neue Verbindung.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250917_183916_826_1758139111320_photo_optimized.jpg",
+    "slug": "kreuzende-wege",
+    "title": "Kreuzende Wege",
+    "alt": "Autobahn, geschwungene Rampen und Bahnlinien überkreuzen sich zwischen grünen Flächen.",
+    "caption": "Schiene und Strasse schneiden sich in mehreren Höhen und Richtungen.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250917_184632_838_1758139040602_photo_optimized.jpg",
+    "slug": "vier-becken",
+    "title": "Vier Becken",
+    "alt": "Symmetrische Anlage mit vier grossen runden Klärbecken und rechteckigen Betriebsgebäuden.",
+    "caption": "Vier dunkle Kreise bestimmen die fast spiegelbildliche Industrieanlage.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250917_190034_847_1758138959807_photo_optimized.jpg",
+    "slug": "die-schleife",
+    "title": "Die Schleife",
+    "alt": "Kreisförmige Strassenrampe schwingt über parallele Bahngeleise und angrenzende Fahrbahnen.",
+    "caption": "Eine einzige Kurve legt sich wie eine Schleife über das Schienennetz.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20251003_110040_868_1759601775334_photo_optimized.jpg",
+    "slug": "schmale-verbindung",
+    "title": "Schmale Verbindung",
+    "alt": "Sehr schmale Hängebrücke überspannt eine tiefe felsige Schlucht zwischen bewaldeten Hängen.",
+    "caption": "Kaum mehr als eine Linie verbindet die beiden Felsseiten.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20251005_114016_902_1759770619984_photo_optimized.jpg",
+    "slug": "uebergang-im-wald",
+    "title": "Übergang im Wald",
+    "alt": "Kleine Brücke über einen graublauen Bergbach in dichtem grünem Wald, direkt von oben gesehen.",
+    "caption": "Der Übergang bleibt beinahe verborgen zwischen Wasser, Steinen und Bäumen.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20260329_123834_132_1774789462767_photo_optimized.jpg",
+    "slug": "kreis-im-feld",
+    "title": "Kreis im Feld",
+    "alt": "Runder Wasserturm steht am Schnittpunkt gerader Feldwege zwischen grünen und braunen Äckern.",
+    "caption": "Der technische Kreis setzt einen Mittelpunkt in das landwirtschaftliche Raster.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20260509_140332_278_1778356849712_photo_optimized.jpg",
+    "slug": "haus-auf-dem-fels",
+    "title": "Haus auf dem Fels",
+    "alt": "Weisses Gebäude mit kleinem Pool liegt auf hellem Küstenfels, erschlossen durch eine geschwungene Strasse.",
+    "caption": "Ein gebauter Mittelpunkt behauptet sich zwischen Fels, Strasse und Meer.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20260509_141304_292_1778356993253_photo_optimized.jpg",
+    "slug": "spuren-des-hafens",
+    "title": "Spuren des Hafens",
+    "alt": "Grosses Hafengelände mit langen Fahrspuren, wartenden Autos und mehreren Gebäuden von oben.",
+    "caption": "Fahrspuren und Fahrzeugreihen zeichnen die Logistik des Übergangs.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20260512_175050_323_1778768876795_photo_optimized.jpg",
+    "slug": "bruecke-ueber-wege",
+    "title": "Brücke über Wege",
+    "alt": "Bahnbrücke kreuzt mehrere Strassen in einem grünen Tal mit Bäumen und Feldern.",
+    "caption": "Die Bahnlinie zieht diagonal über Strassen, Wege und Vegetation.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20260717_143044_448_1784302736670_photo_optimized.jpg",
+    "slug": "doppelte-kurve",
+    "title": "Doppelte Kurve",
+    "alt": "Schmale graue Strasse beschreibt zwei weite Kurven durch eine leuchtend grüne Wiese.",
+    "caption": "Die Strasse verdoppelt ihre Bewegung und wird zur freien Zeichnung im Grün.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Natur/dji_fly_20250630_125844_274_1751314512369_photo_optimized.jpg",
     "slug": "fels-und-tuerkis",
     "title": "Fels und Türkis",
     "alt": "Helle Felsen treffen auf klares türkisfarbenes Meer, direkt von oben fotografiert.",
@@ -40,7 +240,7 @@
     "category": "Natur"
   },
   {
-    "source": "Natur/dji_fly_20250630_125940_276_1751314522776_photo_optimized.jpeg",
+    "source": "Natur/dji_fly_20250630_125940_276_1751314522776_photo_optimized.jpg",
     "slug": "kuestenstruktur",
     "title": "Küstenstruktur",
     "alt": "Gezackte Felsformationen unter und neben tiefblauem Meerwasser aus der Vogelperspektive.",
@@ -48,7 +248,191 @@
     "category": "Natur"
   },
   {
-    "source": "Architektur/dji_fly_20250313_090554_125_1742029781331_photo_optimized.jpeg",
+    "source": "Natur/dji_fly_20250630_130330_283_1751314551035_photo_optimized.jpg",
+    "slug": "kuestenband",
+    "title": "Küstenband",
+    "alt": "Schmales bewachsenes Küstenband zwischen einer geraden Strasse, hellem Fels und türkisfarbenem Meer.",
+    "caption": "Vegetation, Fels und Wasser liegen als parallele Bänder nebeneinander.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20250703_091222_311_1751556768095_photo_optimized.jpg",
+    "slug": "schlucht-und-kurve",
+    "title": "Schlucht und Kurve",
+    "alt": "Felsige Schlucht mit Wasserbecken neben einer stark geschwungenen Strasse und dichtem Grün.",
+    "caption": "Die Strasse folgt der Bewegung von Fels und Wasser, ohne sie zu wiederholen.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20250703_093932_319_1751556714899_photo_optimized.jpg",
+    "slug": "fluss-im-fels",
+    "title": "Fluss im Fels",
+    "alt": "Schmaler dunkler Flusslauf schneidet durch hellen Fels und mediterrane Vegetation.",
+    "caption": "Das Wasser zieht eine dunkle Naht durch die trockene Landschaft.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20250704_231538_373_1751698473478_photo_optimized.jpg",
+    "slug": "fels-im-tiefblau",
+    "title": "Fels im Tiefblau",
+    "alt": "Heller Felsvorsprung reicht in tiefblaues Meer mit türkis sichtbaren Steinen unter der Oberfläche.",
+    "caption": "Über und unter dem Wasser setzt sich die steinerne Struktur fort.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20250709_110140_405_1752091834325_photo_optimized.jpg",
+    "slug": "punkte-im-feld",
+    "title": "Punkte im Feld",
+    "alt": "Regelmässig verteilte kleine Bäume und ihre Schatten auf einem trockenen, streifigen Feld.",
+    "caption": "Bäume setzen dunkle Punkte in die feinen Linien des Bodens.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251005_113722_898_1759770595868_photo_optimized.jpg",
+    "slug": "wasserader",
+    "title": "Wasserader",
+    "alt": "Schmaler steiniger Bach fliesst durch einen dichten Wald in verschiedenen Grüntönen.",
+    "caption": "Der Bach öffnet eine schmale, bewegte Spur im geschlossenen Wald.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251005_135834_924_1759770803359_photo_optimized.jpg",
+    "slug": "drei-bauminseln",
+    "title": "Drei Bauminseln",
+    "alt": "Drei kleine Baumgruppen stehen mit langen dunklen Schatten in einer gleichmässig grünen Wiese.",
+    "caption": "Drei Baumgruppen werden zu Inseln aus Krone und Schatten.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251005_135938_925_1759770811355_photo_optimized.jpg",
+    "slug": "huette-im-gruen",
+    "title": "Hütte im Grün",
+    "alt": "Einzelne kleine Hütte mit rotem Dach steht in einer welligen grünen Wiese und wirft einen dunklen Schatten.",
+    "caption": "Die kleine Hütte unterbricht die weite grüne Fläche mit Form, Farbe und Schatten.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251008_124054_945_1760172326209_photo_optimized.jpg",
+    "slug": "spuren-im-eis",
+    "title": "Spuren im Eis",
+    "alt": "Graue Gletscheroberfläche mit dunklen geschwungenen Linien, Rissen und feinen Strukturen.",
+    "caption": "Sediment und Bewegung schreiben lange Linien in die Oberfläche des Eises.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251008_124540_953_1760172369989_photo_optimized.jpg",
+    "slug": "dunkler-kern",
+    "title": "Dunkler Kern",
+    "alt": "Abstrakte graue Gletscherstruktur mit einem dunklen blauen Fleck und strahlenförmigen Rinnen.",
+    "caption": "Ein dunkler Kern bündelt die fliessenden Spuren im grauen Eis.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251018_140726_967_1760904331317_photo_optimized.jpg",
+    "slug": "herbstmosaik",
+    "title": "Herbstmosaik",
+    "alt": "Dichter Wald aus grünen, gelben, orangen und roten Baumkronen in herbstlicher Färbung.",
+    "caption": "Unzählige Baumkronen verbinden sich zu einem farbigen Mosaik.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251107_120836_8_1762629794164_photo_optimized.jpg",
+    "slug": "licht-und-schatten",
+    "title": "Licht und Schatten",
+    "alt": "Gelbe Laubbäume und dunkle Nadelbäume werfen sehr lange Schatten über eine helle Wiese.",
+    "caption": "Kronen und Schatten verdoppeln die Bäume in entgegengesetzte Richtungen.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20251108_123212_35_1762720760394_photo_optimized.jpg",
+    "slug": "veraesteltes-wasser",
+    "title": "Verästeltes Wasser",
+    "alt": "Verzweigte dunkle Wasserläufe und türkisfarbene Becken durchziehen eine helle Schwemmebene.",
+    "caption": "Wasser teilt sich in ein organisches Netz aus Armen, Inseln und Becken.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260222_083846_57_1771789201890_photo_optimized.jpg",
+    "slug": "winterpunkte",
+    "title": "Winterpunkte",
+    "alt": "Einzelne verschneite Bäume stehen auf einer bläulich weissen Fläche und werfen lange Schatten.",
+    "caption": "Die Bäume setzen helle Punkte und feine Schatten in den Schnee.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260222_084550_70_1771789253782_photo_optimized.jpg",
+    "slug": "winterspuren",
+    "title": "Winterspuren",
+    "alt": "Verschneite Hügellandschaft mit einzelnen Bäumen, langen Schatten und geschwungenen Spuren.",
+    "caption": "Schatten und Wege zeichnen flüchtige Linien in die unberührte Fläche.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260329_124334_141_1774789438340_photo_optimized.jpg",
+    "slug": "felderkreuz",
+    "title": "Felderkreuz",
+    "alt": "Helle Feldwege kreuzen sich zwischen rechteckigen grünen und braunen Ackerflächen.",
+    "caption": "Ein Wegkreuz teilt die Felder in unterschiedlich gefärbte Flächen.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260406_110408_191_1775487966542_photo_optimized.jpg",
+    "slug": "linien-im-feld",
+    "title": "Linien im Feld",
+    "alt": "Dichte grüne Saatreihen und helle Fahrspuren bilden parallele und rechtwinklige Linien.",
+    "caption": "Fahrspuren unterbrechen das dichte Grün mit einer präzisen Zeichnung.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260406_110532_193_1775487978317_photo_optimized.jpg",
+    "slug": "bluehende-ordnung",
+    "title": "Blühende Ordnung",
+    "alt": "Reihen blühender Obstbäume liegen zwischen grünen Feldern mit geraden landwirtschaftlichen Fahrspuren.",
+    "caption": "Blüten, Baumreihen und Ackerspuren überlagern zwei unterschiedliche Ordnungen.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260406_113002_206_1775488011862_photo_optimized.jpg",
+    "slug": "drei-blueten",
+    "title": "Drei Blüten",
+    "alt": "Drei weiss blühende Bäume stehen am Rand eines grünen Feldes neben drei parallelen Fahrspuren.",
+    "caption": "Drei helle Kronen begleiten die geraden Linien des Feldes.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260406_113750_218_1775488061917_photo_optimized.jpg",
+    "slug": "arbeit-im-raster",
+    "title": "Arbeit im Raster",
+    "alt": "Kleines blaues landwirtschaftliches Fahrzeug arbeitet zwischen sehr regelmässigen Saatreihen und Feldwegen.",
+    "caption": "Ein einzelnes Fahrzeug macht die Dimension des fein geordneten Feldes sichtbar.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260408_180256_234_1776190755416_photo_optimized.jpg",
+    "slug": "streifen-der-landwirtschaft",
+    "title": "Streifen der Landwirtschaft",
+    "alt": "Lange grüne und braune Anbaureihen liegen beidseits eines geraden hellen Weges; eine kleine Hütte steht im Feld.",
+    "caption": "Felder, Weg und Hütte verdichten die Landschaft zu farbigen Streifen.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20260514_125710_335_1778768975628_photo_optimized.jpg",
+    "slug": "steinbett",
+    "title": "Steinbett",
+    "alt": "Bergbach fliesst zwischen grossen grauen Felsblöcken und dichtem grünem Wald.",
+    "caption": "Das Wasser sucht sich zwischen schweren Steinen einen bewegten Weg.",
+    "category": "Natur"
+  },
+  {
+    "source": "Architektur/dji_fly_20241231_132146_52_1735653387422_photo_optimized.jpg",
+    "slug": "schattenbau",
+    "title": "Schattenbau",
+    "alt": "Offene dunkle Gebäudekonstruktion steht auf einer weissen Schneefläche und wirft einen langen kantigen Schatten.",
+    "caption": "Bauwerk und Schatten zeigen dieselbe Konstruktion in zwei unterschiedlichen Formen.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250313_090554_125_1742029781331_photo_optimized.jpg",
     "slug": "daecher-im-schnee",
     "title": "Dächer im Schnee",
     "alt": "Schneebedeckte Häuser und dunkle Wege eines Bergdorfs aus senkrechter Drohnenperspektive.",
@@ -56,27 +440,139 @@
     "category": "Architektur"
   },
   {
-    "source": "Gesellschaft/dji_fly_20250304_144958_115_1741113970439_photo_optimized.jpeg",
-    "slug": "reihen-im-schnee",
-    "title": "Reihen im Schnee",
-    "alt": "Drei parallele Reihen gelber und weisser Schneemaschinen auf einer weiten Schneefläche.",
-    "caption": "Technische Geräte stehen in einer fast typografischen Ordnung.",
+    "source": "Architektur/dji_fly_20250517_154348_243_1747492560221_photo_optimized.jpg",
+    "slug": "bruecke-ueber-dem-bergbach",
+    "title": "Brücke über dem Bergbach",
+    "alt": "Schmale helle Brücke über einem Bergbach in dichtem grünem Wald, senkrecht von oben fotografiert.",
+    "caption": "Eine gerade Verbindung über bewegtem Wasser und dichtem Wald.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250704_230858_363_1751698383098_photo_optimized.jpg",
+    "slug": "dorfkern",
+    "title": "Dorfkern",
+    "alt": "Dicht angeordnete Häuser mit roten und hellen Dächern gruppieren sich um schmale Strassen und einen runden Turm.",
+    "caption": "Dächer, Gassen und Plätze zeigen den gewachsenen Grundriss des Ortes.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250709_235026_427_1752130988145_photo_optimized.jpg",
+    "slug": "grundriss-der-zeit",
+    "title": "Grundriss der Zeit",
+    "alt": "Mauerreste einer Ruine bilden zwischen Bäumen und trockenem Boden zahlreiche offene Räume.",
+    "caption": "Übrig gebliebene Mauern zeichnen den Grundriss vergangener Räume nach.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250917_190734_858_1758138915446_photo_optimized.jpg",
+    "slug": "gebautes-zentrum",
+    "title": "Gebautes Zentrum",
+    "alt": "Quadratisches Gebäude mit gestuftem Dach steht in einer Grünanlage zwischen Strassen und Wegen.",
+    "caption": "Das kompakte Gebäude setzt einen geometrischen Mittelpunkt in Park und Verkehr.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250917_190912_860_1758138903006_photo_optimized.jpg",
+    "slug": "zeilen-und-gaerten",
+    "title": "Zeilen und Gärten",
+    "alt": "Parallele Wohnzeilen mit roten Dächern wechseln sich mit schmalen grünen Gärten und Strassen ab.",
+    "caption": "Wohnhäuser und Gärten wiederholen sich als lange Bänder im Quartier.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250917_191106_864_1758138883350_photo_optimized.jpg",
+    "slug": "hof-im-hof",
+    "title": "Hof im Hof",
+    "alt": "Lange Wohngebäude umschliessen begrünte Innenhöfe mit einem roten Sportplatz im Zentrum.",
+    "caption": "Gebäude rahmen Gärten, Wege und Spielfeld als gestaffelte Innenräume.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20260308_133444_89_1772997324304_photo_optimized.jpg",
+    "slug": "winkel-aus-beton",
+    "title": "Winkel aus Beton",
+    "alt": "Winkelförmiges Gebäude mit dunklem Flachdach und Solarpanels liegt in einer weiten grünen Anlage.",
+    "caption": "Zwei Gebäudeflügel setzen einen scharfen Winkel in die offene Wiese.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Architektur/dji_fly_20260308_133652_94_1772996743157_photo_optimized.jpg",
+    "slug": "rostrote-schleifen",
+    "title": "Rostrote Schleifen",
+    "alt": "Rostrote geschwungene Skulptur bildet mehrere Schleifen in einer grünen Parklandschaft mit runden Plätzen.",
+    "caption": "Die Skulptur zeichnet eine freie, endlose Linie in die geordnete Anlage.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250709_110058_403_1752091821016_photo_optimized.jpg",
+    "slug": "parzellen-der-erinnerung",
+    "title": "Parzellen der Erinnerung",
+    "alt": "Rechteckiger Friedhof mit vielen kleinen Grabstätten liegt als geordnete Fläche zwischen trockenen Feldern.",
+    "caption": "Viele individuelle Orte verbinden sich zu einer stillen, gemeinsamen Ordnung.",
     "category": "Gesellschaft"
   },
   {
-    "source": "Gesellschaft/dji_fly_20250304_145118_119_1741113979863_photo_optimized.jpeg",
-    "slug": "gelbe-ordnung",
-    "title": "Gelbe Ordnung",
-    "alt": "Gelbe und weisse Schneemaschinen in drei senkrechten Reihen auf weissem Schnee.",
-    "caption": "Farbe, Wiederholung und Funktion werden aus der Höhe zu einem grafischen Motiv.",
+    "source": "Gesellschaft/dji_fly_20250710_041600_463_1752141820195_photo_optimized.jpg",
+    "slug": "spuren-im-wasser",
+    "title": "Spuren im Wasser",
+    "alt": "Drei Motorboote fahren über tiefblaues Meer und ziehen lange helle Kielwellen hinter sich her.",
+    "caption": "Drei Bewegungen schreiben für einen Augenblick helle Spuren ins Wasser.",
     "category": "Gesellschaft"
   },
   {
-    "source": "Gesellschaft/dji_fly_20250304_145222_123_1741113996830_photo_optimized.jpeg",
-    "slug": "maschinen-und-schatten",
-    "title": "Maschinen und Schatten",
-    "alt": "Schneemaschinen und ihre langen dunklen Schatten auf einer weissen Fläche, direkt von oben gesehen.",
-    "caption": "Die tief stehende Sonne ergänzt die technische Ordnung um starke Schatten.",
+    "source": "Gesellschaft/dji_fly_20250718_194736_535_1752914730751_photo_optimized.jpg",
+    "slug": "gaerten-am-feld",
+    "title": "Gärten am Feld",
+    "alt": "Schmale Reihe kleinteiliger Schrebergärten trennt ein braunes von einem grünen Feld; ein grosser Schatten liegt daneben.",
+    "caption": "Private Gärten bilden ein dichtes Band zwischen offenen landwirtschaftlichen Flächen.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250718_194930_538_1752914742800_photo_optimized.jpg",
+    "slug": "geteilte-gaerten",
+    "title": "Geteilte Gärten",
+    "alt": "Zwei parallele Reihen von Schrebergärten liegen beidseits einer grünen Wiese mit einem langen Baumschatten.",
+    "caption": "Kleine Gärten rahmen eine offene Mitte, die nur ein Schatten besetzt.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250812_183840_736_1755017789257_photo_optimized.jpg",
+    "slug": "stadt-im-fluss",
+    "title": "Stadt im Fluss",
+    "alt": "Viele Menschen schwimmen in einem grünen Fluss neben einer Brücke, auf der ein grünes Tram fährt.",
+    "caption": "Schwimmende Menschen und öffentlicher Verkehr teilen sich zwei Ebenen der Stadt.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250812_184054_743_1755017791990_photo_optimized.jpg",
+    "slug": "menschen-im-strom",
+    "title": "Menschen im Strom",
+    "alt": "Zahlreiche Menschen treiben mit bunten Schwimmhilfen verteilt in einer grünen Wasserfläche.",
+    "caption": "Aus der Höhe werden die Badenden zu farbigen Punkten in einer gemeinsamen Strömung.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20251102_212204_983_1762199390047_photo_optimized.jpg",
+    "slug": "lichtkreis",
+    "title": "Lichtkreis",
+    "alt": "Kreisförmig leuchtendes Fahrgeschäft erscheint nachts als pinkfarbener Ring in einer schwarzen Umgebung.",
+    "caption": "Ein einzelner Lichtkreis löst sich aus der Dunkelheit.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20260403_154516_145_1775233433262_photo_optimized.jpg",
+    "slug": "bad-am-ufer",
+    "title": "Bad am Ufer",
+    "alt": "Rechteckige Badeanlage steht im grünen Wasser neben einer Uferstrasse und einer Baumallee.",
+    "caption": "Das Bad erweitert die Stadt als gebauter Raum in die Wasserfläche hinein.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20260509_144224_302_1778357096894_photo_optimized.jpg",
+    "slug": "schiff-im-hafen",
+    "title": "Schiff im Hafen",
+    "alt": "Grosses weisses Passagierschiff liegt zwischen tiefblauem Hafenwasser und einer befestigten Kaianlage.",
+    "caption": "Das Schiff füllt den schmalen Raum zwischen offenem Wasser und steinernem Kai.",
     "category": "Gesellschaft"
   }
 ]

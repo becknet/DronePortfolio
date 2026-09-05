@@ -10,13 +10,16 @@ test("uses the approved public URL", () => {
 });
 
 test("all images have unique, complete metadata", () => {
-  assert.equal(gallery.length, 10);
+  assert.ok(gallery.length > 0);
   assert.equal(new Set(gallery.map(({ slug }) => slug)).size, gallery.length);
   for (const image of gallery) {
     assert.ok(image.title.length > 3);
     assert.ok(image.alt.length > 20);
     assert.ok(image.caption.length > 20);
     assert.ok(site.categoryOrder.includes(image.category));
+  }
+  for (const category of site.categoryOrder) {
+    assert.ok(gallery.some((image) => image.category === category));
   }
 });
 
