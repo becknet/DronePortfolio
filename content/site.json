@@ -1,0 +1,22 @@
+{
+  "siteName": "Daniel Brodbeck – Vertikale Perspektiven",
+  "siteUrl": "https://becknet.github.io/DronePortfolio/",
+  "description": "Drohnenfotografie von Daniel Brodbeck: vertikale Perspektiven auf Infrastruktur, Natur, Architektur und Gesellschaft.",
+  "author": {
+    "name": "Daniel Brodbeck",
+    "email": "brodbeck@becknet.ch",
+    "instagram": "https://www.instagram.com/daniel.brodbeck/"
+  },
+  "drone": "DJI Mini 3",
+  "categoryOrder": [
+    "Infrastruktur",
+    "Natur",
+    "Architektur",
+    "Gesellschaft"
+  ],
+  "heroSlug": "wald-wasser-uebergang",
+  "analytics": {
+    "enabled": false,
+    "measurementId": ""
+  }
+}

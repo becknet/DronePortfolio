@@ -1,0 +1,82 @@
+[
+  {
+    "source": "Infrastruktur/dji_fly_20250517_154348_243_1747492560221_photo_optimized.jpeg",
+    "slug": "bruecke-ueber-dem-bergbach",
+    "title": "Brücke über dem Bergbach",
+    "alt": "Schmale Brücke über einem Bergbach in dichtem grünem Wald, senkrecht von oben fotografiert.",
+    "caption": "Eine gerade Verbindung über bewegtem Wasser und dichtem Wald.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250517_154752_253_1747492522150_photo_optimized.jpeg",
+    "slug": "wald-wasser-uebergang",
+    "title": "Wald, Wasser, Übergang",
+    "alt": "Eine helle Brücke teilt aus der Vogelperspektive einen grünen Wald und einen türkisfarbenen Bergbach.",
+    "caption": "Infrastruktur als präzise Linie in einer organischen Landschaft.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Infrastruktur/dji_fly_20250703_084610_307_1751556809819_photo_optimized.jpeg",
+    "slug": "linie-ueber-dem-schotterfeld",
+    "title": "Linie über dem Schotterfeld",
+    "alt": "Gerade Strasse mit einem einzelnen Auto über einem breiten Schotterfeld, senkrecht von oben aufgenommen.",
+    "caption": "Eine einzelne Verkehrsachse ordnet die weite steinige Fläche.",
+    "category": "Infrastruktur"
+  },
+  {
+    "source": "Natur/dji_fly_20250517_123732_237_1747492489903_photo_optimized.jpeg",
+    "slug": "kurven-im-gruen",
+    "title": "Kurven im Grün",
+    "alt": "Helle Serpentinenstrasse zwischen grünen Wiesen und Bäumen aus senkrechter Drohnenperspektive.",
+    "caption": "Die Strasse zeichnet eine weiche Bewegung durch das satte Grün.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20250630_125844_274_1751314512369_photo_optimized.jpeg",
+    "slug": "fels-und-tuerkis",
+    "title": "Fels und Türkis",
+    "alt": "Helle Felsen treffen auf klares türkisfarbenes Meer, direkt von oben fotografiert.",
+    "caption": "Die Küstenlinie wird zur abstrakten Grenze zwischen Stein und Wasser.",
+    "category": "Natur"
+  },
+  {
+    "source": "Natur/dji_fly_20250630_125940_276_1751314522776_photo_optimized.jpeg",
+    "slug": "kuestenstruktur",
+    "title": "Küstenstruktur",
+    "alt": "Gezackte Felsformationen unter und neben tiefblauem Meerwasser aus der Vogelperspektive.",
+    "caption": "Gestein und Wasser bilden ein ruhiges, vielschichtiges Muster.",
+    "category": "Natur"
+  },
+  {
+    "source": "Architektur/dji_fly_20250313_090554_125_1742029781331_photo_optimized.jpeg",
+    "slug": "daecher-im-schnee",
+    "title": "Dächer im Schnee",
+    "alt": "Schneebedeckte Häuser und dunkle Wege eines Bergdorfs aus senkrechter Drohnenperspektive.",
+    "caption": "Weisse Dächer und dunkle Wege verdichten sich zu einem geometrischen Plan.",
+    "category": "Architektur"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250304_144958_115_1741113970439_photo_optimized.jpeg",
+    "slug": "reihen-im-schnee",
+    "title": "Reihen im Schnee",
+    "alt": "Drei parallele Reihen gelber und weisser Schneemaschinen auf einer weiten Schneefläche.",
+    "caption": "Technische Geräte stehen in einer fast typografischen Ordnung.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250304_145118_119_1741113979863_photo_optimized.jpeg",
+    "slug": "gelbe-ordnung",
+    "title": "Gelbe Ordnung",
+    "alt": "Gelbe und weisse Schneemaschinen in drei senkrechten Reihen auf weissem Schnee.",
+    "caption": "Farbe, Wiederholung und Funktion werden aus der Höhe zu einem grafischen Motiv.",
+    "category": "Gesellschaft"
+  },
+  {
+    "source": "Gesellschaft/dji_fly_20250304_145222_123_1741113996830_photo_optimized.jpeg",
+    "slug": "maschinen-und-schatten",
+    "title": "Maschinen und Schatten",
+    "alt": "Schneemaschinen und ihre langen dunklen Schatten auf einer weissen Fläche, direkt von oben gesehen.",
+    "caption": "Die tief stehende Sonne ergänzt die technische Ordnung um starke Schatten.",
+    "category": "Gesellschaft"
+  }
+]

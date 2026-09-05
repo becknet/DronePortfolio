@@ -1,0 +1,9 @@
+{
+  "name": "Daniel Brodbeck – Vertikale Perspektiven",
+  "short_name": "Vertikale Perspektiven",
+  "start_url": "/DronePortfolio/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "lang": "de-CH"
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://becknet.github.io/DronePortfolio/sitemap.xml

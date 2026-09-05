@@ -1,0 +1,26 @@
+# Daniel Brodbeck – Vertikale Perspektiven
+
+> Ein persönliches Portfolio für Drohnenfotografie mit senkrechten Perspektiven auf Infrastruktur, Natur, Architektur und Gesellschaft.
+
+## Zentrale Inhalte
+
+- [Portfolio und Bilder](https://becknet.github.io/DronePortfolio/#galerie)
+- [Über Daniel Brodbeck](https://becknet.github.io/DronePortfolio/#ueber-mich)
+- [Kontakt](https://becknet.github.io/DronePortfolio/#kontakt)
+- [Datenschutz](https://becknet.github.io/DronePortfolio/datenschutz.html)
+
+## Fotograf
+
+Daniel Brodbeck fotografiert mit einer DJI Mini 3. Seine Arbeiten untersuchen Strukturen, Formen und Zusammenhänge aus einer möglichst senkrechten Vogelperspektive.
+
+## Kategorien
+
+- Infrastruktur
+- Natur
+- Architektur
+- Gesellschaft
+
+## Kontakt
+
+- E-Mail: brodbeck@becknet.ch
+- Instagram: https://www.instagram.com/daniel.brodbeck/
