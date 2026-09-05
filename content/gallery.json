@@ -48,14 +48,6 @@
     "category": "Infrastruktur"
   },
   {
-    "source": "Infrastruktur/dji_fly_20250704_233624_382_1751698568704_photo_optimized.jpg",
-    "slug": "boote-im-raster",
-    "title": "Boote im Raster",
-    "alt": "Zahlreiche weisse Boote liegen in parallelen Reihen in einem Hafen mit grünblauem Wasser.",
-    "caption": "Stege und Boote verwandeln das Hafenbecken in ein dichtes Raster.",
-    "category": "Infrastruktur"
-  },
-  {
     "source": "Infrastruktur/dji_fly_20250704_233854_388_1751698607364_photo_optimized.jpg",
     "slug": "hafenlinie",
     "title": "Hafenlinie",
@@ -133,14 +125,6 @@
     "title": "Ebenen der Bewegung",
     "alt": "Strassen, Bahntrassen und Brücken kreuzen sich über einem schmalen Fluss und begrünten Ufern.",
     "caption": "Verkehrswege verschiedener Zeiten und Geschwindigkeiten liegen übereinander.",
-    "category": "Infrastruktur"
-  },
-  {
-    "source": "Infrastruktur/dji_fly_20250822_181024_786_1755893298561_photo_optimized.jpg",
-    "slug": "verkehrsknoten",
-    "title": "Verkehrsknoten",
-    "alt": "Mehrspurige Strassen und Rampen mit Autos und einem Lastwagen kreuzen sich in engen Kurven.",
-    "caption": "Markierungen, Fahrzeuge und Fahrbahnen formen einen dicht geknüpften Knoten.",
     "category": "Infrastruktur"
   },
   {
@@ -232,14 +216,6 @@
     "category": "Infrastruktur"
   },
   {
-    "source": "Natur/dji_fly_20250630_125844_274_1751314512369_photo_optimized.jpg",
-    "slug": "fels-und-tuerkis",
-    "title": "Fels und Türkis",
-    "alt": "Helle Felsen treffen auf klares türkisfarbenes Meer, direkt von oben fotografiert.",
-    "caption": "Die Küstenlinie wird zur abstrakten Grenze zwischen Stein und Wasser.",
-    "category": "Natur"
-  },
-  {
     "source": "Natur/dji_fly_20250630_125940_276_1751314522776_photo_optimized.jpg",
     "slug": "kuestenstruktur",
     "title": "Küstenstruktur",
@@ -304,27 +280,11 @@
     "category": "Natur"
   },
   {
-    "source": "Natur/dji_fly_20251005_135938_925_1759770811355_photo_optimized.jpg",
-    "slug": "huette-im-gruen",
-    "title": "Hütte im Grün",
-    "alt": "Einzelne kleine Hütte mit rotem Dach steht in einer welligen grünen Wiese und wirft einen dunklen Schatten.",
-    "caption": "Die kleine Hütte unterbricht die weite grüne Fläche mit Form, Farbe und Schatten.",
-    "category": "Natur"
-  },
-  {
     "source": "Natur/dji_fly_20251008_124054_945_1760172326209_photo_optimized.jpg",
     "slug": "spuren-im-eis",
     "title": "Spuren im Eis",
     "alt": "Graue Gletscheroberfläche mit dunklen geschwungenen Linien, Rissen und feinen Strukturen.",
     "caption": "Sediment und Bewegung schreiben lange Linien in die Oberfläche des Eises.",
-    "category": "Natur"
-  },
-  {
-    "source": "Natur/dji_fly_20251008_124540_953_1760172369989_photo_optimized.jpg",
-    "slug": "dunkler-kern",
-    "title": "Dunkler Kern",
-    "alt": "Abstrakte graue Gletscherstruktur mit einem dunklen blauen Fleck und strahlenförmigen Rinnen.",
-    "caption": "Ein dunkler Kern bündelt die fliessenden Spuren im grauen Eis.",
     "category": "Natur"
   },
   {
@@ -472,14 +432,6 @@
     "category": "Architektur"
   },
   {
-    "source": "Architektur/dji_fly_20250917_190912_860_1758138903006_photo_optimized.jpg",
-    "slug": "zeilen-und-gaerten",
-    "title": "Zeilen und Gärten",
-    "alt": "Parallele Wohnzeilen mit roten Dächern wechseln sich mit schmalen grünen Gärten und Strassen ab.",
-    "caption": "Wohnhäuser und Gärten wiederholen sich als lange Bänder im Quartier.",
-    "category": "Architektur"
-  },
-  {
     "source": "Architektur/dji_fly_20250917_191106_864_1758138883350_photo_optimized.jpg",
     "slug": "hof-im-hof",
     "title": "Hof im Hof",
@@ -533,14 +485,6 @@
     "title": "Geteilte Gärten",
     "alt": "Zwei parallele Reihen von Schrebergärten liegen beidseits einer grünen Wiese mit einem langen Baumschatten.",
     "caption": "Kleine Gärten rahmen eine offene Mitte, die nur ein Schatten besetzt.",
-    "category": "Gesellschaft"
-  },
-  {
-    "source": "Gesellschaft/dji_fly_20250812_183840_736_1755017789257_photo_optimized.jpg",
-    "slug": "stadt-im-fluss",
-    "title": "Stadt im Fluss",
-    "alt": "Viele Menschen schwimmen in einem grünen Fluss neben einer Brücke, auf der ein grünes Tram fährt.",
-    "caption": "Schwimmende Menschen und öffentlicher Verkehr teilen sich zwei Ebenen der Stadt.",
     "category": "Gesellschaft"
   },
   {
